@@ -29,6 +29,8 @@ Si el programa se cierra repentinamente o se interrumpe sin mostrar un error en 
 
 *(Puedes copiar y pegar esa ruta en tu Explorador de Archivos). El registro te mostrará paso a paso en qué mod o en qué texto exacto se detuvo la traducción.*
 
+![Descargas Totales](https://img.shields.io/github/downloads/d0ce3/McTranslator-Feedback/total?color=8707ff&style=for-the-badge&label=DESCARGAS)
+
 ## 📄 Licencia
 
 Copyright © 2026 d0ce3. Todos los derechos reservados.
