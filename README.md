@@ -6,8 +6,8 @@ MCTranslator es una herramienta diseñada para hacerte la vida más fácil. Extr
 
 - **Traducción Automática**: Extrae los textos del inglés y los traduce al español en cuestión de segundos.
 - **Múltiples Motores**: 
-  - *Google Translate*: Gratis, rápido y masivo.
-  - *DeepL API*: Ideal para traducciones de mayor calidad y más naturales.
+  - *Google Translate*: Gratis, rápido y masivo (menos recomendado).
+  - *DeepL API*: Ideal para traducciones de mayor calidad y más naturales (el más recomendado).
   - *Inteligencia Artificial (Gemini)*: Traducciones con contexto, perfectas para Minecraft.
 - **Fácil de Usar**: Selecciona tu carpeta de mods o simplemente arrastra los archivos `.jar` a la aplicación, elige tu versión de Minecraft y dale a "Iniciar".
 - **Historial Integrado**: Revisa todas tus traducciones pasadas, ve qué mods se procesaron y vuelve a generar los Resource Packs cuando lo necesites.
