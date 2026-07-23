@@ -31,6 +31,21 @@ Si el programa se cierra repentinamente o se interrumpe sin mostrar un error en 
 
 ![Descargas Totales](https://img.shields.io/github/downloads/d0ce3/McTranslator-Feedback/total?color=8707ff&style=for-the-badge&label=DESCARGAS)
 
+
+**⚠️ Windows puede mostrar una advertencia al instalar o actualizar**
+
+Es normal y esperable. No es un virus.
+
+**MCTranslator es una aplicación gratuita y sin fines de lucro**, hecha por una sola persona. Para que Windows deje de mostrar estas advertencias hace falta un "certificado de firma de código", que cuesta varios cientos de dólares por año — un gasto que no tiene sentido para un proyecto gratuito como este.
+
+Sin ese certificado, Windows (y algunos antivirus) desconfían automáticamente de cualquier programa nuevo y poco descargado, sin importar si es seguro o no. Es lo mismo que le pasa a la mayoría de las apps chicas e independientes cuando recién salen.
+
+Si Windows te muestra "Windows protegió tu PC", hacé click en Más información → Ejecutar de todas formas.
+Si tu antivirus lo bloquea directamente, agregalo como excepción.
+
+Con el tiempo, a medida que más gente lo descarga y lo usa sin problemas, estas advertencias van a ir apareciendo cada vez menos.
+
+
 ## 📄 Licencia
 
 Copyright © 2026 d0ce3. Todos los derechos reservados.
