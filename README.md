@@ -43,6 +43,9 @@ Sin ese certificado, Windows (y algunos antivirus) desconfían automáticamente 
 Si Windows te muestra "Windows protegió tu PC", hacé click en Más información → Ejecutar de todas formas.
 Si tu antivirus lo bloquea directamente, agregalo como excepción.
 
+<img width="1360" height="720" alt="image" src="https://github.com/user-attachments/assets/7b3b34e3-2d6f-41cb-83fb-eb40a3c0ce0b" />
+Tambien desactiven el control inteligente de Aplicaciones si es que utilizan solamente Windows Defender.
+
 Con el tiempo, a medida que más gente lo descarga y lo usa sin problemas, estas advertencias van a ir apareciendo cada vez menos.
 
 
